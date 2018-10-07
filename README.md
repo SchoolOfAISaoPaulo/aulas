@@ -1,9 +1,13 @@
-#  Meetup - School of AI de São Paulo
+# School of AI de São Paulo
 
-Nesta página é possível encontrar todas as informações e materias abordados nos Meetups que já ocorreram.
+Nesta página é possível encontrar todas as aulas, informações e materias abordados nos Meetups.
+
+## Aulas
+
+[03/10/2018 - Aula inaugural](#03102018---aula-inaugural)
 
 
-## Lista
+## Lista Completa
 
 ### 03/10/2018 - Aula inaugural
 
@@ -16,7 +20,8 @@ Agradecemos a todos que apoiram essa ideia e fizeram acontecer esse primeiro eve
 
 - **Tema Abordado:** Introdução a Deep Learning - Uma abordagem visual
 - **Palestrante:** José Ahirton Lopes
-- **Contatos:** [@AhirtonL](https://github.com/AhirtonL)
+- **Contatos** 
+  - **Github:** [@AhirtonL](https://github.com/AhirtonL)
 - **Video:** https://www.youtube.com/watch?v=BBh8QRL1boU
 - **Material:** https://github.com/AhirtonL/School_of_AI
 
