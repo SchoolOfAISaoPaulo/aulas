@@ -32,16 +32,16 @@ Agradecemos a todos que apoiram essa ideia e fizeram acontecer esse primeiro eve
 #### Aula 2
 
 - **Tema Abordado:** Data Science Aplicada na Mobilidade Urbana: Da Modelagem ao Machine Learning
-- **Professor:** [Rafael Coronel](https://www.linkedin.com/in/rafaelcoronelphd/)
-- **Contatos:**
+- **Professor:** Rafael Coronel
+- **Contatos:** https://www.linkedin.com/in/rafaelcoronelphd/
 - **Video:** https://www.youtube.com/watch?v=atMT9n1yjew
 - **Material:**
 
 #### Aula 3
 
 - **Tema Abordado:** Aplicação de Data Science para construção de um modelo de previsão de vendas de uma cadeia de varejo
-- **Professor:** [Luiz Andrade](https://www.linkedin.com/in/luiz-andrade-97306216/)
-- **Contatos:**
+- **Professor:** Luiz Andrade
+- **Contatos:** https://www.linkedin.com/in/luiz-andrade-97306216/
 - **Video:** https://www.youtube.com/watch?v=knqjMG2EWA8
 - **Material:**
 
