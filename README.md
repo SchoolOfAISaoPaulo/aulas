@@ -11,7 +11,7 @@ Nesta página é possível encontrar todas as aulas, informações e materias ab
 
 ### 03/10/2018 - Aula inaugural
 
-Agradecemos a todos que apoiram essa ideia e fizeram acontecer esse primeiro evento.
+Agradecemos a todos que apoiram essa ideia e fizeram acontecer essa primeira aula.
 
 **Local**: [Estação Hack](https://www.google.com.br/maps/place/Esta%C3%A7%C3%A3o+Hack/@-23.5624065,-46.6542724,15z/data=!4m2!3m1!1s0x0:0x53d643daf01894f5?sa=X&ved=2ahUKEwjQnvT2w_TdAhWEjJAKHR1NCTgQ_BIwDnoECAoQCw)
 
