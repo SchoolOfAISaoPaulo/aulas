@@ -1,6 +1,6 @@
 # School of AI de São Paulo
 
-Nesta página é possível encontrar todas as aulas, informações e materias abordados nos Meetups.
+Nesta página é possível encontrar informações e materiais abordados nas aulas.
 
 ## Aulas
 
