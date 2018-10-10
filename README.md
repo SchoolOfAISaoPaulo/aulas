@@ -11,7 +11,7 @@ Nesta página é possível encontrar informações e materiais abordados nas aul
 
 ### 03/10/2018 - Aula inaugural
 
-Agradecemos a todos que apoiram essa ideia e fizeram acontecer essa primeira aula.
+Agradecemos a todos que apoiram essa ideia e fizeram acontecer a primeira aula.
 
 **Local**: [Estação Hack](https://www.google.com.br/maps/place/Esta%C3%A7%C3%A3o+Hack/@-23.5624065,-46.6542724,15z/data=!4m2!3m1!1s0x0:0x53d643daf01894f5?sa=X&ved=2ahUKEwjQnvT2w_TdAhWEjJAKHR1NCTgQ_BIwDnoECAoQCw)
 
@@ -33,7 +33,8 @@ Agradecemos a todos que apoiram essa ideia e fizeram acontecer essa primeira aul
 
 - **Tema Abordado:** Data Science Aplicada na Mobilidade Urbana: Da Modelagem ao Machine Learning
 - **Professor:** Rafael Coronel
-- **Contatos:** https://www.linkedin.com/in/rafaelcoronelphd/
+- **Contatos** 
+  - **LinkedIn:** https://www.linkedin.com/in/rafaelcoronelphd/
 - **Video:** https://www.youtube.com/watch?v=atMT9n1yjew *
 - **Material:**
 
@@ -41,7 +42,8 @@ Agradecemos a todos que apoiram essa ideia e fizeram acontecer essa primeira aul
 
 - **Tema Abordado:** Aplicação de Data Science para construção de um modelo de previsão de vendas de uma cadeia de varejo
 - **Professor:** Luiz Andrade
-- **Contatos:** https://www.linkedin.com/in/luiz-andrade-97306216/
+- **Contatos** 
+  - **LinkedIn:** https://www.linkedin.com/in/luiz-andrade-97306216/
 - **Video:** https://www.youtube.com/watch?v=knqjMG2EWA8 *
 - **Material:**
 
@@ -52,5 +54,5 @@ Agradecemos a todos que apoiram essa ideia e fizeram acontecer essa primeira aul
 
 
 
-*** Os vídeos foram gravados de forma amadora por alunos e foram gentilmente cedidos para que os que não compareceram pudessem ter acesso ao conteúdo.
+> Os vídeos foram gravados de forma amadora por alunos e foram gentilmente cedidos para que os que não compareceram pudessem ter acesso ao conteúdo.
 
