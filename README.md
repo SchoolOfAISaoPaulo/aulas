@@ -52,5 +52,5 @@ Agradecemos a todos que apoiram essa ideia e fizeram acontecer essa primeira aul
 
 
 
-* Os vídeos foram gravados de forma amadora por alunos e foram gentilmente cedidos para que os que não compareceram pudessem ter acesso ao conteúdo.
+*** Os vídeos foram gravados de forma amadora por alunos e foram gentilmente cedidos para que os que não compareceram pudessem ter acesso ao conteúdo.
 
