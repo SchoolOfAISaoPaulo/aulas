@@ -15,6 +15,8 @@ Agradecemos a todos que apoiram essa ideia e fizeram acontecer a primeira aula.
 
 **Local**: [Estação Hack](https://www.google.com.br/maps/place/Esta%C3%A7%C3%A3o+Hack/@-23.5624065,-46.6542724,15z/data=!4m2!3m1!1s0x0:0x53d643daf01894f5?sa=X&ved=2ahUKEwjQnvT2w_TdAhWEjJAKHR1NCTgQ_BIwDnoECAoQCw)
 
+> Os vídeos foram gravados de forma amadora por alunos e foram gentilmente cedidos para que os que não compareceram pudessem ter acesso ao conteúdo.
+
 #### Boas-vinda da School of AI
 - **Slides**: [Aqui](https://docs.google.com/presentation/d/1wqxn_249Ewr2bfKn4W3Kcm9IeylGl8l92crB_otN3wM/edit?usp=sharing)
 - **Dean**: [Cleyton Messias](https://www.linkedin.com/in/cleytonmessias/)
@@ -52,7 +54,4 @@ Agradecemos a todos que apoiram essa ideia e fizeram acontecer a primeira aula.
 
 - **Planilha de prestação de contas:** https://docs.google.com/spreadsheets/d/136aDqUJPuqXTvw4tW1zc086dxBoAPV29TZ-7DuX2k3M/edit?usp=sharing
 
-
-
-> Os vídeos foram gravados de forma amadora por alunos e foram gentilmente cedidos para que os que não compareceram pudessem ter acesso ao conteúdo.
 
