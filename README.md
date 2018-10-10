@@ -26,7 +26,7 @@ Agradecemos a todos que apoiram essa ideia e fizeram acontecer essa primeira aul
 - **Professor:** José Ahirton Lopes
 - **Contatos** 
   - **Github:** [@AhirtonL](https://github.com/AhirtonL)
-- **Video:** https://www.youtube.com/watch?v=BBh8QRL1boU
+- **Video:** https://www.youtube.com/watch?v=BBh8QRL1boU *
 - **Material:** https://github.com/AhirtonL/School_of_AI
 
 #### Aula 2
@@ -34,7 +34,7 @@ Agradecemos a todos que apoiram essa ideia e fizeram acontecer essa primeira aul
 - **Tema Abordado:** Data Science Aplicada na Mobilidade Urbana: Da Modelagem ao Machine Learning
 - **Professor:** Rafael Coronel
 - **Contatos:** https://www.linkedin.com/in/rafaelcoronelphd/
-- **Video:** https://www.youtube.com/watch?v=atMT9n1yjew
+- **Video:** https://www.youtube.com/watch?v=atMT9n1yjew *
 - **Material:**
 
 #### Aula 3
@@ -42,11 +42,15 @@ Agradecemos a todos que apoiram essa ideia e fizeram acontecer essa primeira aul
 - **Tema Abordado:** Aplicação de Data Science para construção de um modelo de previsão de vendas de uma cadeia de varejo
 - **Professor:** Luiz Andrade
 - **Contatos:** https://www.linkedin.com/in/luiz-andrade-97306216/
-- **Video:** https://www.youtube.com/watch?v=knqjMG2EWA8
+- **Video:** https://www.youtube.com/watch?v=knqjMG2EWA8 *
 - **Material:**
 
 
 #### Planilha mostrando a doação recebida e onde os gastos foram feitos:
 
 - **Planilha de prestação de contas:** https://docs.google.com/spreadsheets/d/136aDqUJPuqXTvw4tW1zc086dxBoAPV29TZ-7DuX2k3M/edit?usp=sharing
+
+
+
+* Os vídeos foram gravados de forma amadora por alunos e foram gentilmente cedidos para que os que não compareceram pudessem ter acesso ao conteúdo.
 
