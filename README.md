@@ -46,3 +46,7 @@ Agradecemos a todos que apoiram essa ideia e fizeram acontecer essa primeira aul
 - **Material:**
 
 
+#### Planilha mostrando a doação recebida e onde os gastos foram feitos:
+
+- **Planilha de prestação de contas:** https://docs.google.com/spreadsheets/d/136aDqUJPuqXTvw4tW1zc086dxBoAPV29TZ-7DuX2k3M/edit?usp=sharing
+
