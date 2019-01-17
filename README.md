@@ -2,12 +2,12 @@
 
 Nesta página é possível encontrar informações e materiais abordados nas aulas.
 
-## Aulas
+## Índice de Aulas
 
 - [03/10/2018 - Aula inaugural](#03102018---aula-inaugural)
 - [21/11/2018 - Segunda Aula](#21112018---segunda-aula)
 - [12/12/2018 - Terceira Aula](#12122018---terceira-aula)
-- [15/01/2019 - Quarta Aula](#15012019---quarta-aula)
+- [15/01/2019 - Quarta Aula](#15012019---quarta-aula-na-lambda3)
 
 ## Lista Completa
 
