@@ -145,7 +145,7 @@ Também é com muito entusiamo que iniciamos a nossa parceria com a [Lambda3](ht
 
 ### Apresentação da School Of AI SP
 
-- **Video:** https://youtu.be/wX0ZvPmpvcM?t=820
+- **Video:**
 - **Palestrante:** Andrea Longarini
 - **Contatos**
   - **Github:** [@alongarini](https://github.com/alongarini)
