@@ -166,4 +166,4 @@ Também é com muito entusiamo que iniciamos a nossa parceria com a [Lambda3](ht
 - **Video:** https://www.youtube.com/watch?v=qzASCODZrzI
 - **Contatos**
   - **LinkedIn:** [Prof. Diego Menescal](https://www.linkedin.com/in/diegomenescal/)
-- **Material:**
+- **Material:** [Entendendo Regressão.pptx](https://github.com/SchoolOfAISaoPaulo/aulas/quarta_aula/entendendo_regressao.pptx)
