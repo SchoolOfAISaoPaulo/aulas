@@ -170,7 +170,7 @@ Também é com muito entusiamo que iniciamos a nossa parceria com a [Lambda3](ht
 - **Material:** [Entendendo Regressão.pptx](https://github.com/SchoolOfAISaoPaulo/aulas/raw/master/quarta_aula/entendendo_regressao.pptx)
 
 
-### 15/01/2019 - Quinta Aula na Lambda3
+### 29/01/2019 - Quinta Aula na Lambda3
 
 Nesta quinta aula foi abordos dois modulos, a primeira aula de Estatística Básica e a continuação da aula de Entendendo Regressão.
 
