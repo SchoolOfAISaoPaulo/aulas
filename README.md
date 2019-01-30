@@ -79,7 +79,7 @@ Por enquanto as aulas estão sendo gravadas de um celular, se alguém tiver um e
 ### Aula 1
 
 - **Tema Abordado:** Algoritmos Clássicos em IA - Recomendação e Árvore de Decisão
-- **Professor:** José Ahirton Lopes
+- **Professor:** Prof. José Ahirton Lopes
 - **Video:** https://youtu.be/wX0ZvPmpvcM?t=820
 - **Contatos**
   - **Github:** [@AhirtonL](https://github.com/AhirtonL)
@@ -88,7 +88,7 @@ Por enquanto as aulas estão sendo gravadas de um celular, se alguém tiver um e
 ### Aula 2
 
 - **Tema Abordado:** Data Science & Advanced Analytics Aplicada na Mobilidade Urbana: Da Modelagem ao Machine Learning
-- **Professor:** Rafael Coronel
+- **Professor:** Prof. Rafael Coronel
 - **Video:** https://youtu.be/wX0ZvPmpvcM?t=4216
 - **Contatos**
   - **LinkedIn:** https://www.linkedin.com/in/rafaelcoronelphd/
@@ -153,7 +153,7 @@ Também é com muito entusiamo que iniciamos a nossa parceria com a [Lambda3](ht
 ### Aula 1
   
 - **Tema Abordado:** Back to Basics
-- **Professor:** José Ahirton Lopes
+- **Professor:** Prof. José Ahirton Lopes
 - **Video:** https://youtu.be/u_W7IxQl0jw?t=853
 - **Contatos**
   - **Github:** [@AhirtonL](https://github.com/AhirtonL)
@@ -161,9 +161,38 @@ Também é com muito entusiamo que iniciamos a nossa parceria com a [Lambda3](ht
 
 ### Aula 2
 
-- **Tema Abordado:**
+- **Tema Abordado:** Entendendo Regressão
 - **Professor:** Prof. Diego Menescal
 - **Video:** https://www.youtube.com/watch?v=qzASCODZrzI
 - **Contatos**
   - **LinkedIn:** [Prof. Diego Menescal](https://www.linkedin.com/in/diegomenescal/)
 - **Material:** [Entendendo Regressão.pptx](https://github.com/SchoolOfAISaoPaulo/aulas/raw/master/quarta_aula/entendendo_regressao.pptx)
+
+
+### 15/01/2019 - Quinta Aula na Lambda3
+
+Nesta quinta aula foi abordos dois modulos, a primeira aula de Estatística Básica e a continuação da aula de Entendendo Regressão.
+
+**Contatos**
+
+**Grupo do Facebook:** https://www.facebook.com/groups/spschoolofai/
+
+**E-mail:** schoolofai.sp@gmail.com
+
+### Aula 1
+  
+- **Tema Abordado:** Estatística Básica
+- **Professor:** Prof. Victor
+- **Video:**
+- **Contatos**
+  - **Github:** 
+- **Material:** [Google Drive - Materia de Estatística](https://goo.gl/US71oP)
+
+### Aula 2
+
+- **Tema Abordado:** Entendendo Regressão 2
+- **Professor:** Prof. Diego Menescal
+- **Video:**
+- **Contatos**
+  - **LinkedIn:** [Prof. Diego Menescal](https://www.linkedin.com/in/diegomenescal/)
+- **Material:** [Google Drive - Material Regressão](https://drive.google.com/drive/folders/1qBGlBLobEZW-SdVthaHnXTiyt2NTNsM2)
