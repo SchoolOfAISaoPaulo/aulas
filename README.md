@@ -2,6 +2,12 @@
 
 Nesta página é possível encontrar informações e materiais abordados nas aulas.
 
+**Contatos**
+
+**Grupo do Facebook:** https://www.facebook.com/groups/spschoolofai/
+
+**E-mail:** schoolofai.sp@gmail.com
+
 ## Índice de Aulas
 
 - [03/10/2018 - Aula inaugural](https://github.com/SchoolOfAISaoPaulo/aulas/tree/master/01_aula)
