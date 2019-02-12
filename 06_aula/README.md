@@ -23,9 +23,9 @@ Live: [School of AI - São Paulo (12/02/2019) - Aula 06](https://www.youtube.com
 
 ### Aula 2
 
-- **Tema Abordado:** 
+- **Tema Abordado:** Análise de Dados - HandsOn
 - **Professor:** 
-- **Video:**
+- **Video:** https://www.youtube.com/watch?v=K444RIyQCy0
 - **Contatos**
   - **LinkedIn:** 
 - **Material:**
