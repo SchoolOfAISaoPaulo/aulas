@@ -12,7 +12,7 @@ Live: [School of AI - São Paulo (12/02/2019) - Aula 06](https://www.youtube.com
 
 ### Aula 1
   
-- **Tema Abordado:**
+- **Tema Abordado:** Exploração de Dados
 - **Professor:** 
 - **Video:** https://www.youtube.com/watch?v=Ee9oBXfJppQ
 - **Contatos**
