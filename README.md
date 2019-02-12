@@ -15,4 +15,4 @@ Nesta página é possível encontrar informações e materiais abordados nas aul
 - [12/12/2018 - Terceira Aula](https://github.com/SchoolOfAISaoPaulo/aulas/tree/master/03_aula)
 - [15/01/2019 - Quarta Aula](https://github.com/SchoolOfAISaoPaulo/aulas/tree/master/04_aula)
 - [29/01/2019 - Quinta Aula](https://github.com/SchoolOfAISaoPaulo/aulas/tree/master/05_aula)
-- [06/01/2019 - Sexta Aula](https://github.com/SchoolOfAISaoPaulo/aulas/tree/master/06_aula)
+- [12/02/2019 - Sexta Aula](https://github.com/SchoolOfAISaoPaulo/aulas/tree/master/06_aula)
