@@ -13,11 +13,13 @@ Live: [School of AI - São Paulo (12/02/2019) - Aula 06](https://www.youtube.com
 ### Aula 1
   
 - **Tema Abordado:** Exploração de Dados
-- **Professor:** 
+- **Professor:** Prof. Victor
 - **Video:** https://www.youtube.com/watch?v=Ee9oBXfJppQ
 - **Contatos**
   - **Github:** 
-- **Material:** 
+- **Material** 
+  - [Google Drive - Materia de Estatística](https://drive.google.com/drive/mobile/folders/10ej_EgM-Oys3NMoVwlmChHdBpX4gmlC3?usp=drive_open&fbclid=IwAR2xQlVKV4pbDuh608BqiDrt8ToZLtQcrpcmIpydx8lyS2D6h6Jo6M36DDE)
+  - [Base Utilizada](http://files.grouplens.org/datasets/movielens/ml-20m.zip?fbclid=IwAR1PYVOHj49SP63PcLgy3mtnDt-HBvNeEmxLZfi2pSNYSh02NjniqA-_QjY)
 
 ### Aula 2
 
