@@ -3,6 +3,7 @@
 ### 12/02/2019 - Sexta Aula no Espaço Lambda3
 
 Live1: [School of AI - São Paulo (12/02/2019) - Aula 06 - Parte 1](https://www.youtube.com/watch?v=Ee9oBXfJppQ)
+
 Live2: [School of AI - São Paulo (12/02/2019) - Aula 06 - Parte 2](https://www.youtube.com/watch?v=K444RIyQCy0)
 
 **Contatos**
