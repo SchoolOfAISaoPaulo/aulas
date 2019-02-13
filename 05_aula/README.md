@@ -16,11 +16,10 @@ Nesta quinta aula foi abordos dois modulos, a primeira aula de Estatística Bás
 - **Professor:** Prof. Luiz Andrade
 - **Video:**
 - **Contatos**
-  - **Github:** 
+  - **LinkedIn:**
 - **Material:** 
     - [Google Drive - Material de Estatística](https://goo.gl/US71oP)
-    - [Base Utilizada](http://files.grouplens.org/datasets/movielens/ml-20m.zip?fbclid=IwAR1PYVOHj49SP63PcLgy3mtnDt-HBvNeEmxLZfi2pSNYSh02NjniqA-_QjY)
-
+    
 ### Aula 2
 
 - **Tema Abordado:** Entendendo Regressão 2
