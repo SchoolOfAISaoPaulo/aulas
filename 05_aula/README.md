@@ -16,7 +16,7 @@ Nesta quinta aula foi abordos dois modulos, a primeira aula de Estatística Bás
 - **Professor:** Prof. Luiz Andrade
 - **Video:**
 - **Contatos**
-  - **LinkedIn:**
+  - **LinkedIn:** [Prof. Luiz Andrade](https://www.linkedin.com/in/luiz-andrade-97306216/)
 - **Material:** 
     - [Google Drive - Material de Estatística](https://goo.gl/US71oP)
     
