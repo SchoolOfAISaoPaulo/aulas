@@ -30,4 +30,7 @@ Live2: [School of AI - São Paulo (12/02/2019) - Aula 06 - Parte 2](https://www.
 - **Video:** https://www.youtube.com/watch?v=K444RIyQCy0
 - **Contatos**
   - **LinkedIn:** [Prof. Victor Venites](https://www.linkedin.com/in/victor-venites)
-- **Material:**
+- **Material:** 
+  - [Aula6.Exploracao_de_Dados.VictorV.ipynb - Jupyter Notebook](https://github.com/SchoolOfAISaoPaulo/aulas/blob/master/06_aula/material/Aula6.Exploracao_de_Dados.VictorV.ipynb)
+  - [Aula6.Exploracao_de_Dados.VictorV.pdf - Apresentação](https://github.com/SchoolOfAISaoPaulo/aulas/blob/master/06_aula/material/Aula6.Exploracao_de_Dados.VictorV.pdf)
+
