@@ -13,7 +13,7 @@ Live: [School of AI - São Paulo (12/02/2019) - Aula 06](https://www.youtube.com
 ### Aula 1
   
 - **Tema Abordado:** Exploração de Dados
-- **Professor:** Prof. Victor
+- **Professor:** Prof. Luiz Andrade
 - **Video:** https://www.youtube.com/watch?v=Ee9oBXfJppQ
 - **Contatos**
   - **Github:** 
