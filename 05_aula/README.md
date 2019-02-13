@@ -13,11 +13,13 @@ Nesta quinta aula foi abordos dois modulos, a primeira aula de Estatística Bás
 ### Aula 1
   
 - **Tema Abordado:** Estatística Básica
-- **Professor:** Prof. Victor
+- **Professor:** Prof. Luiz Andrade
 - **Video:**
 - **Contatos**
   - **Github:** 
-- **Material:** [Google Drive - Materia de Estatística](https://goo.gl/US71oP)
+- **Material:** 
+    - [Google Drive - Material de Estatística](https://goo.gl/US71oP)
+    - [Base Utilizada](http://files.grouplens.org/datasets/movielens/ml-20m.zip?fbclid=IwAR1PYVOHj49SP63PcLgy3mtnDt-HBvNeEmxLZfi2pSNYSh02NjniqA-_QjY)
 
 ### Aula 2
 
