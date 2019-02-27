@@ -21,10 +21,10 @@ Live1: [School of AI - São Paulo (26/02/2019) - Aula 07](https://youtu.be/za7bF
 
 ### Aula 2
 
-- **Tema Abordado:**
+- **Tema Abordado:** Aprendizado de Máquina - Árvores de Decisão
 - **Professor:** Prof. José Ahirton Lopes
-- **Video:**
+- **Video:** https://youtu.be/za7bF6llG1w?t=4025
 - **Contatos**
   - **Github:** [@AhirtonL](https://github.com/AhirtonL)
-- **Material:**
+- **Material:** https://github.com/AhirtonLopes/Decision-Tree
 
