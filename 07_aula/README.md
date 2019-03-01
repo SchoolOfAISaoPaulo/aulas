@@ -25,6 +25,6 @@ Live1: [School of AI - São Paulo (26/02/2019) - Aula 07](https://youtu.be/za7bF
 - **Professor:** Prof. José Ahirton Lopes
 - **Video:** https://youtu.be/za7bF6llG1w?t=4025
 - **Contatos**
-  - **Github:** [@AhirtonL](https://github.com/AhirtonL)
+  - **Github:** [@AhirtonLopes](https://github.com/AhirtonLopes)
 - **Material:** https://github.com/AhirtonLopes/Decision-Tree
 

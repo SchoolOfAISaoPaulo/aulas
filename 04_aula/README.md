@@ -25,7 +25,7 @@ Também é com muito entusiamo que iniciamos a nossa parceria com a [Lambda3](ht
 - **Professor:** Prof. José Ahirton Lopes
 - **Video:** https://youtu.be/u_W7IxQl0jw?t=853
 - **Contatos**
-  - **Github:** [@AhirtonL](https://github.com/AhirtonL)
+  - **Github:** [@AhirtonLopes](https://github.com/AhirtonLopes)
 - **Material:** https://www.slideshare.net/JosAhirtonBatistaLop/aula-01-school-of-ai-sp-back-to-basics
 
 ### Aula 2

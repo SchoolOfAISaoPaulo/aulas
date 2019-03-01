@@ -18,7 +18,7 @@ Agradecemos a todos que apoiram essa ideia e fizeram acontecer a primeira aula.
 - **Tema Abordado:** Introdução a Deep Learning - Uma abordagem visual
 - **Professor:** José Ahirton Lopes
 - **Contatos** 
-  - **Github:** [@AhirtonL](https://github.com/AhirtonL)
+  - **Github:** [@AhirtonLopes](https://github.com/AhirtonLopes)
 - **Video:** https://www.youtube.com/watch?v=BBh8QRL1boU
 - **Material:** https://github.com/AhirtonL/School_of_AI
 

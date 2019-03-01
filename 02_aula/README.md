@@ -25,7 +25,7 @@ Por enquanto as aulas estão sendo gravadas de um celular, se alguém tiver um e
 - **Professor:** Prof. José Ahirton Lopes
 - **Video:** https://youtu.be/wX0ZvPmpvcM?t=820
 - **Contatos**
-  - **Github:** [@AhirtonL](https://github.com/AhirtonL)
+  - **Github:** [@AhirtonLopes](https://github.com/AhirtonLopes)
 - **Material:**
 
 ### Aula 2
