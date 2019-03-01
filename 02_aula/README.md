@@ -22,7 +22,7 @@ Por enquanto as aulas estão sendo gravadas de um celular, se alguém tiver um e
 ### Aula 1
 
 - **Tema Abordado:** Algoritmos Clássicos em IA - Recomendação e Árvore de Decisão
-- **Professor:** Prof. José Ahirton Lopes
+- **Professor:** José Ahirton Lopes
 - **Video:** https://youtu.be/wX0ZvPmpvcM?t=820
 - **Contatos**
   - **Github:** [@AhirtonLopes](https://github.com/AhirtonLopes)
@@ -34,5 +34,5 @@ Por enquanto as aulas estão sendo gravadas de um celular, se alguém tiver um e
 - **Professor:** Prof. Rafael Coronel
 - **Video:** https://youtu.be/wX0ZvPmpvcM?t=4216
 - **Contatos**
-  - **LinkedIn:** https://www.linkedin.com/in/rafaelcoronelphd/
+  - **LinkedIn:** [Rafael Coronel](https://www.linkedin.com/in/rafaelcoronelphd/)
 - **Material:**

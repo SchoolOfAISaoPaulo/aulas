@@ -20,14 +20,14 @@ Agradecemos a todos que apoiram essa ideia e fizeram acontecer a primeira aula.
 - **Contatos** 
   - **Github:** [@AhirtonLopes](https://github.com/AhirtonLopes)
 - **Video:** https://www.youtube.com/watch?v=BBh8QRL1boU
-- **Material:** https://github.com/AhirtonL/School_of_AI
+- **Material:** https://github.com/AhirtonLopes/School_of_AI
 
 #### Aula 2
 
 - **Tema Abordado:** Data Science Aplicada na Mobilidade Urbana: Da Modelagem ao Machine Learning
 - **Professor:** Rafael Coronel
 - **Contatos** 
-  - **LinkedIn:** https://www.linkedin.com/in/rafaelcoronelphd/
+  - **LinkedIn:** [Rafael Coronel](https://www.linkedin.com/in/rafaelcoronelphd/)
 - **Video:** https://www.youtube.com/watch?v=atMT9n1yjew *
 - **Material:**
 
@@ -36,7 +36,7 @@ Agradecemos a todos que apoiram essa ideia e fizeram acontecer a primeira aula.
 - **Tema Abordado:** Aplicação de Data Science para construção de um modelo de previsão de vendas de uma cadeia de varejo
 - **Professor:** Luiz Andrade
 - **Contatos** 
-  - **LinkedIn:** https://www.linkedin.com/in/luiz-andrade-97306216/
+  - **LinkedIn:** [Luiz Andrade](https://www.linkedin.com/in/luiz-andrade-97306216/)
 - **Video:** https://www.youtube.com/watch?v=knqjMG2EWA8 *
 - **Material:**
 

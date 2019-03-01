@@ -22,7 +22,7 @@ Também é com muito entusiamo que iniciamos a nossa parceria com a [Lambda3](ht
 ### Aula 1
   
 - **Tema Abordado:** Back to Basics
-- **Professor:** Prof. José Ahirton Lopes
+- **Professor:** José Ahirton Lopes
 - **Video:** https://youtu.be/u_W7IxQl0jw?t=853
 - **Contatos**
   - **Github:** [@AhirtonLopes](https://github.com/AhirtonLopes)

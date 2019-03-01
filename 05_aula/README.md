@@ -13,18 +13,18 @@ Nesta quinta aula foi abordos dois modulos, a primeira aula de Estatística Bás
 ### Aula 1
   
 - **Tema Abordado:** Estatística Básica
-- **Professor:** Prof. Luiz Andrade
+- **Professor:** Luiz Andrade
 - **Video:**
 - **Contatos**
-  - **LinkedIn:** [Prof. Luiz Andrade](https://www.linkedin.com/in/luiz-andrade-97306216/)
+  - **LinkedIn:** [Luiz Andrade](https://www.linkedin.com/in/luiz-andrade-97306216/)
 - **Material:** 
     - [Google Drive - Material de Estatística](https://goo.gl/US71oP)
     
 ### Aula 2
 
 - **Tema Abordado:** Entendendo Regressão 2
-- **Professor:** Prof. Diego Menescal
+- **Professor:** Diego Menescal
 - **Video:**
 - **Contatos**
-  - **LinkedIn:** [Prof. Diego Menescal](https://www.linkedin.com/in/diegomenescal/)
+  - **LinkedIn:** [Diego Menescal](https://www.linkedin.com/in/diegomenescal/)
 - **Material:** [Google Drive - Material Regressão](https://drive.google.com/drive/folders/1qBGlBLobEZW-SdVthaHnXTiyt2NTNsM2)

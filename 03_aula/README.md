@@ -13,7 +13,7 @@ A terceira aula foi realizada no [GPA](https://www.google.com/maps/place/Institu
   ### Aula 1
 
 - **Tema Abordado:** Diga olá para seu Hardware
-- **Professor:** Prof. Diego Menescal
+- **Professor:** Diego Menescal
 - **Video:** https://www.youtube.com/watch?v=_B07M99HXVc
 - **Contatos**
   - **LinkedIn:** [Prof. Diego Menescal](https://www.linkedin.com/in/diegomenescal/)
