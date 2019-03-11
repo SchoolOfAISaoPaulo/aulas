@@ -17,3 +17,4 @@ Nesta página é possível encontrar informações e materiais abordados nas aul
 - [29/01/2019 - Quinta Aula](https://github.com/SchoolOfAISaoPaulo/aulas/tree/master/05_aula)
 - [12/02/2019 - Sexta Aula](https://github.com/SchoolOfAISaoPaulo/aulas/tree/master/06_aula)
 - [26/02/2019 - Sétima Aula](https://github.com/SchoolOfAISaoPaulo/aulas/tree/master/07_aula)
+- [12/03/2019 - Oitava Aula](https://github.com/SchoolOfAISaoPaulo/aulas/tree/master/08_aula)
