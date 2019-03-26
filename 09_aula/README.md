@@ -11,8 +11,8 @@
 
 ### Aula 1
   
-- **Tema Abordado:** 
-- **Professor:** 
+- **Tema Abordado:** Naives Bayes
+- **Professor:** Victor Venittes
 - **Video:**
 - **Contatos**
   - **LinkedIn:** 
@@ -22,8 +22,8 @@
 
 ### Aula 2
 
-- **Tema Abordado:** 
-- **Professor:** 
+- **Tema Abordado:** Visualização de Dados
+- **Professor:** Rodolfo Barbosa
 - **Video:** 
 - **Contatos**
   - **Github:** 
