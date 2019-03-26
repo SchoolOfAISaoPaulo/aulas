@@ -18,5 +18,5 @@
   - **LinkedIn:** [Luiz Andrade](https://www.linkedin.com/in/luiz-andrade-97306216/)
 - **Material:** 
   - [Google Drive - Base de vinhos csv](https://drive.google.com/file/d/19olbQ93fz1Ipkceb-72FlO6IEYDvMd3O/view?usp=sharing)
-  - [Arquivo Jupyter Notebook](https://drive.google.com/open?id=1ZsJyhg5sJCS_DMW-CBz_SmFxFZEP7LnG)
+  - [Arquivo Jupyter Notebook](https://github.com/SchoolOfAISaoPaulo/aulas/blob/master/08_aula/material/Aula_SoAI_20190312.ipynb)
 
