@@ -19,6 +19,7 @@
 - **Material:** 
   - [BreastCancer.csv](https://github.com/SchoolOfAISaoPaulo/aulas/blob/master/09_aula/01/breastCancer.csv)
   - [Aula09_NaiveBayes_Cancer.ipynb](https://github.com/SchoolOfAISaoPaulo/aulas/blob/master/09_aula/01/Aula09_NaiveBayes_Cancer.ipynb)
+  - Jupyter: https://drive.google.com/file/d/1YO0sldBvVufBJol1OUQgZ7KLH_7lznw3/view?usp=sharing
 
 ### Aula 2
 
