@@ -17,8 +17,8 @@
 - **Contatos**
   - **LinkedIn:** 
 - **Material:** 
-  - [Google Drive - Base de vinhos csv](https://drive.google.com/file/d/19olbQ93fz1Ipkceb-72FlO6IEYDvMd3O/view?usp=sharing)
-  - [Arquivo Jupyter Notebook](https://drive.google.com/open?id=1ZsJyhg5sJCS_DMW-CBz_SmFxFZEP7LnG)
+  - [BreastCancer.csv](https://github.com/SchoolOfAISaoPaulo/aulas/blob/master/09_aula/01/breastCancer.csv)
+  - [Aula09_NaiveBayes_Cancer.ipynb](https://github.com/SchoolOfAISaoPaulo/aulas/blob/master/09_aula/01/Aula09_NaiveBayes_Cancer.ipynb)
 
 ### Aula 2
 
@@ -28,3 +28,4 @@
 - **Contatos**
   - **Github:** 
 - **Material:** 
+  -[Aula_Basica_Data_Viz.pptx](https://github.com/SchoolOfAISaoPaulo/aulas/blob/master/09_aula/02/Aula_Basica_Data_Viz.pptx)
