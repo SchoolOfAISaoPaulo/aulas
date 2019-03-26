@@ -28,4 +28,4 @@
 - **Contatos**
   - **Github:** 
 - **Material:** 
-  -[Aula_Basica_Data_Viz.pptx](https://github.com/SchoolOfAISaoPaulo/aulas/blob/master/09_aula/02/Aula_Basica_Data_Viz.pptx)
+  - [Aula_Basica_Data_Viz.pptx](https://github.com/SchoolOfAISaoPaulo/aulas/blob/master/09_aula/02/Aula_Basica_Data_Viz.pptx)
