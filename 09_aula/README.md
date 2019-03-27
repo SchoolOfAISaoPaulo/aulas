@@ -1,7 +1,11 @@
 # School of AI de São Paulo
 
-### 26/03/2019 - Nona Aula no Espaço Lambda3
+### 26/03/2019 - Nona Aula no Espaço Lambda3 - Naive Bayes e Visualização de dados
 
+### Live YouTube
+[School of AI SP - Turma 1 - Aula 6 - Naive Bayes e Visualização de dados](https://www.youtube.com/watch?v=eHOgblKgLWQ)
+
+[School of AI SP - Turma 1 - Aula 6.b - Naive Bayes e Visualização de dados](https://www.youtube.com/watch?v=qv7Y3r6Ka8M)
 
 **Contatos**
 
