@@ -18,5 +18,5 @@ Nesta página é possível encontrar informações e materiais abordados nas aul
 - [12/02/2019 - Sexta Aula](https://github.com/SchoolOfAISaoPaulo/aulas/tree/master/06_aula)
 - [26/02/2019 - Sétima Aula](https://github.com/SchoolOfAISaoPaulo/aulas/tree/master/07_aula)
 - [12/03/2019 - Oitava Aula](https://github.com/SchoolOfAISaoPaulo/aulas/tree/master/08_aula)
-- [26/03/2019 - Nona Aula](https://github.com/SchoolOfAISaoPaulo/aulas/blob/master/09_aula)
+- [26/03/2019 - Nona Aula - Naive Bayes e Visualização de dados](https://github.com/SchoolOfAISaoPaulo/aulas/blob/master/09_aula)
 
