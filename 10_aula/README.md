@@ -1,6 +1,6 @@
 # School of AI de São Paulo
 
-### 26/04/2019 - Aula 8 SVM no espaço Lambda
+### 26/04/2019 - Aula  8 -  SVM e dia-a-dia de um Engenheiro do Google no espaço Lambda
 
 
 **Contatos**
