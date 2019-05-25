@@ -72,9 +72,9 @@ Nesta página é possível encontrar informações e materiais abordados nas aul
     - O professor ainda não enviou os materiais
 		
 - Aula 9/2019 - 26/abr- Lambada3 - Aula Especial
-    - [Suport Vector Machines - Sammy El Ghazzal](https://www.youtube.com/watch?v=m_dtGhIc9EU&t=5s)
+    - [SVM e dia-a-dia de um Engenheiro do Google - Sammy El Ghazzal](https://www.youtube.com/watch?v=m_dtGhIc9EU&t=5s)
+    - [Acesse aqui os Materiais](https://github.com/SchoolOfAISaoPaulo/aulas/tree/master/10_aula#aula-1)
 
-		
 - Aula 10/2019 - 07/maio- Lambada3
     - Parte 1 - [Classificadores K-NN - Ahirton Lopes](https://www.youtube.com/watch?v=K13GeZB1gUE&t=12s)
     - Parte 2 - [Classificadores K-Means - - Ahirton Lopes](https://www.youtube.com/watch?v=rM-WeCksjws)
@@ -82,4 +82,4 @@ Nesta página é possível encontrar informações e materiais abordados nas aul
 - Aula 11/2019 - 21/mai- Lambada3
     - Parte 1 - [Classificadores Ensembles - Luiz Andrade](https://www.youtube.com/watch?v=lq9LGL695_g)
     - Parte 2 - [Séries Temporais - Case Bitcoin](https://www.youtube.com/watch?v=lbQ5UEOWi1o)
-    - Os Materiais dessa aula serão adicionados
+    - [Acesse aqui os Materiais](https://github.com/SchoolOfAISaoPaulo/aulas/tree/master/11_aula)
