@@ -13,9 +13,9 @@ Nesta página é possível encontrar informações e materiais abordados nas aul
 ## Aulas de 2018
 
 - Aula 1/2018 - 03/10 - We Work Estação Hack
-    - Parte 1 - [Introdução a Deep Learning - Uma abordagem visual - José Ahirton Lopes](https://www.youtube.com/watch?v=BBh8QRL1boU)
-    - Parte 2 - [Data Science Aplicada na Mobilidade Urbana: Da Modelagem ao Machine Learning  - Rafael Coronel](https://www.youtube.com/watch?v=atMT9n1yjew)
-    - Parte 3 - [Aplicação de Data Science para construção de um modelo de previsão de vendas de uma cadeia de varejo - Luiz Andrade](https://www.youtube.com/watch?v=knqjMG2EWA8)
+    - Parte 1 - [Introdução a Deep Learning - Uma abordagem visual - José Ahirton Lopes](https://youtu.be/JBZXHLEuabk)
+    - Parte 2 - [Data Science Aplicada na Mobilidade Urbana: Da Modelagem ao Machine Learning  - Rafael Coronel](https://youtu.be/vN7STgH7Os)
+    - Parte 3 - [Aplicação de Data Science para construção de um modelo de previsão de vendas de uma cadeia de varejo - Luiz Andrade](https://youtu.be/5UXYZj1DlbU)
     - [Contato dos Professores](https://github.com/SchoolOfAISaoPaulo/aulas/tree/master/01_aula)
 
 - Aula 2/2018 - 21/11 - We Work Estação Hack

@@ -19,7 +19,7 @@ Agradecemos a todos que apoiram essa ideia e fizeram acontecer a primeira aula.
 - **Professor:** José Ahirton Lopes
 - **Contatos** 
   - **Github:** [@AhirtonLopes](https://github.com/AhirtonLopes)
-- **Video:** https://www.youtube.com/watch?v=BBh8QRL1boU
+- **Video:** https://youtu.be/JBZXHLEuabk
 - **Material:** https://github.com/AhirtonLopes/School_of_AI
 
 #### Parte 2
@@ -28,7 +28,7 @@ Agradecemos a todos que apoiram essa ideia e fizeram acontecer a primeira aula.
 - **Professor:** Rafael Coronel
 - **Contatos** 
   - **LinkedIn:** [Rafael Coronel](https://www.linkedin.com/in/rafaelcoronelphd/)
-- **Video:** https://www.youtube.com/watch?v=atMT9n1yjew *
+- **Video:** https://youtu.be/vN7STgH7Os
 - **Material:**
 
 #### Parte 3
@@ -37,7 +37,7 @@ Agradecemos a todos que apoiram essa ideia e fizeram acontecer a primeira aula.
 - **Professor:** Luiz Andrade
 - **Contatos** 
   - **LinkedIn:** [Luiz Andrade](https://www.linkedin.com/in/luiz-andrade-97306216/)
-- **Video:** https://www.youtube.com/watch?v=knqjMG2EWA8 *
+- **Video:** https://youtu.be/5UXYZj1DlbU
 - **Material:**
 
 
