@@ -17,5 +17,5 @@
 - **Contatos**
   - **LinkedIn:** [Luiz Andrade]((https://www.linkedin.com/in/luiz-andrade-97306216/))
 - **Material:** 
-  - [Slides da aula](https://github.com/SchoolOfAISaoPaulo/aulas/blob/master/08_aula/material/aula_11_ensembles.pptx.zip)
+  - [Slides da aula](https://github.com/SchoolOfAISaoPaulo/aulas/raw/master/11_aula/material/aula_11_ensembles.pptx.zip)
   
