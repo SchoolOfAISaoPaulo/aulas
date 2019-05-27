@@ -10,7 +10,7 @@ A terceira aula foi realizada no [GPA](https://www.google.com/maps/place/Institu
 
 **E-mail:** schoolofai.sp@gmail.com
   
-  ### Aula 1
+  ### Parte 1
 
 - **Tema Abordado:** Diga olá para seu Hardware
 - **Professor:** Diego Menescal
@@ -19,7 +19,7 @@ A terceira aula foi realizada no [GPA](https://www.google.com/maps/place/Institu
   - **LinkedIn:** [Prof. Diego Menescal](https://www.linkedin.com/in/diegomenescal/)
 - **Material:**
 
- ### Aula 2
+ ### Parte 2
 
 - **Tema Abordado:** Uma aplicação de visão computacional aplicada ao varejo
 - **Professor:** Rufo Paganini
@@ -28,7 +28,7 @@ A terceira aula foi realizada no [GPA](https://www.google.com/maps/place/Institu
   - **LinkedIn:** [Rufo Paganini](https://www.linkedin.com/in/rufopaganini/)
 - **Material:**
   
-### Aula 3
+### Parte 3
 
 - **Tema Abordado:** Machine Translation para previsão de vendas
 - **Professor:** Luiz Andrade

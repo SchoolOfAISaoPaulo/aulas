@@ -13,7 +13,7 @@
 
 **E-mail:** schoolofai.sp@gmail.com
 
-### Aula 1
+### Parte 1
   
 - **Tema Abordado:** Naives Bayes
 - **Professor:** Victor Venittes
@@ -26,7 +26,7 @@
   - [Base - BreastCancer.csv](https://github.com/SchoolOfAISaoPaulo/aulas/blob/master/09_aula/01/breastCancer.csv)
   - [Jupyter - Aula09_NaiveBayes_Cancer.ipynb](https://github.com/SchoolOfAISaoPaulo/aulas/blob/master/09_aula/01/Aula09_NaiveBayes_Cancer.ipynb)
 
-### Aula 2
+### Parte 2
 
 - **Tema Abordado:** Visualização de Dados
 - **Professor:** Rodolfo Barbosa

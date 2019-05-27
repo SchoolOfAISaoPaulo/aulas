@@ -10,7 +10,7 @@ Nesta quinta aula foi abordos dois modulos, a primeira aula de Estatística Bás
 
 **E-mail:** schoolofai.sp@gmail.com
 
-### Aula 1
+### Parte 1
   
 - **Tema Abordado:** Estatística Básica
 - **Professor:** Luiz Andrade
@@ -20,7 +20,7 @@ Nesta quinta aula foi abordos dois modulos, a primeira aula de Estatística Bás
 - **Material:** 
     - [Google Drive - Material de Estatística](https://goo.gl/US71oP)
     
-### Aula 2
+### Parte 2
 
 - **Tema Abordado:** Entendendo Regressão 2
 - **Professor:** Diego Menescal

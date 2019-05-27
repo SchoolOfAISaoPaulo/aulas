@@ -10,7 +10,7 @@ Live1: [School of AI - São Paulo (26/02/2019) - Aula 07](https://youtu.be/za7bF
 
 **E-mail:** schoolofai.sp@gmail.com
 
-### Aula 1
+### Parte 1
   
 - **Tema Abordado:** Entendendo Regressão 3 - Final
 - **Professor:** Diego Menescal
@@ -19,7 +19,7 @@ Live1: [School of AI - São Paulo (26/02/2019) - Aula 07](https://youtu.be/za7bF
   - **LinkedIn:** [Diego Menescal](https://www.linkedin.com/in/diegomenescal/)
 - **Material:** [Google Drive - Material Regressão aula 3 - Final](https://drive.google.com/file/d/1i6g3_OcrLkjqMJocVlHmGG4SITMZw8ZM)
 
-### Aula 2
+### Parte 2
 
 - **Tema Abordado:** Aprendizado de Máquina - Árvores de Decisão
 - **Professor:** José Ahirton Lopes

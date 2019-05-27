@@ -19,7 +19,7 @@ Também é com muito entusiamo que iniciamos a nossa parceria com a [Lambda3](ht
 - **Contatos**
   - **Github:** [@alongarini](https://github.com/alongarini)
 
-### Aula 1
+### Parte 1
   
 - **Tema Abordado:** Back to Basics
 - **Professor:** José Ahirton Lopes
@@ -28,7 +28,7 @@ Também é com muito entusiamo que iniciamos a nossa parceria com a [Lambda3](ht
   - **Github:** [@AhirtonLopes](https://github.com/AhirtonLopes)
 - **Material:** https://www.slideshare.net/JosAhirtonBatistaLop/aula-01-school-of-ai-sp-back-to-basics
 
-### Aula 2
+### Parte 2
 
 - **Tema Abordado:** Entendendo Regressão
 - **Professor:** Prof. Diego Menescal

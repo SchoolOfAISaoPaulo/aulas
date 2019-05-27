@@ -13,7 +13,7 @@ Agradecemos a todos que apoiram essa ideia e fizeram acontecer a primeira aula.
 - **Dean:** [Cleyton Messias](https://www.linkedin.com/in/cleytonmessias/)
 
 
-#### Aula 1
+#### Parte 1
 
 - **Tema Abordado:** Introdução a Deep Learning - Uma abordagem visual
 - **Professor:** José Ahirton Lopes
@@ -22,7 +22,7 @@ Agradecemos a todos que apoiram essa ideia e fizeram acontecer a primeira aula.
 - **Video:** https://www.youtube.com/watch?v=BBh8QRL1boU
 - **Material:** https://github.com/AhirtonLopes/School_of_AI
 
-#### Aula 2
+#### Parte 2
 
 - **Tema Abordado:** Data Science Aplicada na Mobilidade Urbana: Da Modelagem ao Machine Learning
 - **Professor:** Rafael Coronel
@@ -31,7 +31,7 @@ Agradecemos a todos que apoiram essa ideia e fizeram acontecer a primeira aula.
 - **Video:** https://www.youtube.com/watch?v=atMT9n1yjew *
 - **Material:**
 
-#### Aula 3
+#### Parte 3
 
 - **Tema Abordado:** Aplicação de Data Science para construção de um modelo de previsão de vendas de uma cadeia de varejo
 - **Professor:** Luiz Andrade

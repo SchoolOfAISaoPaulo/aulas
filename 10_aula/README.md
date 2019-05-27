@@ -9,7 +9,7 @@
 
 **E-mail:** schoolofai.sp@gmail.com
 
-### Aula 1
+### Aula
   
 - **Tema Abordado**: **SVM e dia-a-dia de um Engenheiro do Google**
 - **Professor:** Sammy El Ghazzal

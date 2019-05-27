@@ -12,7 +12,7 @@ Live2: [School of AI - São Paulo (12/02/2019) - Aula 06 - Parte 2](https://www.
 
 **E-mail:** schoolofai.sp@gmail.com
 
-### Aula 1
+### Parte 1
   
 - **Tema Abordado:** Exploração de Dados com Python
 - **Professor:** Victor Venites
@@ -23,7 +23,7 @@ Live2: [School of AI - São Paulo (12/02/2019) - Aula 06 - Parte 2](https://www.
   - [Google Drive - Material de Estatística](https://drive.google.com/drive/mobile/folders/10ej_EgM-Oys3NMoVwlmChHdBpX4gmlC3?usp=drive_open&fbclid=IwAR2xQlVKV4pbDuh608BqiDrt8ToZLtQcrpcmIpydx8lyS2D6h6Jo6M36DDE)
   - [Base Utilizada](http://files.grouplens.org/datasets/movielens/ml-20m.zip?fbclid=IwAR1PYVOHj49SP63PcLgy3mtnDt-HBvNeEmxLZfi2pSNYSh02NjniqA-_QjY)
 
-### Aula 2
+### Parte 2
 
 - **Tema Abordado:** HandsOn com Python
 - **Professor:** Victor Venites e Alexandre Nunes

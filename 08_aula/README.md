@@ -9,7 +9,7 @@
 
 **E-mail:** schoolofai.sp@gmail.com
 
-### Aula 1
+### Parte 1
   
 - **Tema Abordado:** Machine Tasting: análise estatística e construção de um classificador de vinhos
 - **Professor:** Luiz Andrade

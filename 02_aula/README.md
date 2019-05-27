@@ -19,7 +19,7 @@ Por enquanto as aulas estão sendo gravadas de um celular, se alguém tiver um e
 - **Dean:** [Cleyton Messias](https://www.linkedin.com/in/cleytonmessias/)
 - **Video:** https://youtu.be/wX0ZvPmpvcM
 
-### Aula 1
+### Parte 1
 
 - **Tema Abordado:** Algoritmos Clássicos em IA - Recomendação e Árvore de Decisão
 - **Professor:** José Ahirton Lopes
@@ -28,7 +28,7 @@ Por enquanto as aulas estão sendo gravadas de um celular, se alguém tiver um e
   - **Github:** [@AhirtonLopes](https://github.com/AhirtonLopes)
 - **Material:**
 
-### Aula 2
+### Parte 2
 
 - **Tema Abordado:** Data Science & Advanced Analytics Aplicada na Mobilidade Urbana: Da Modelagem ao Machine Learning
 - **Professor:** Prof. Rafael Coronel
