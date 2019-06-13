@@ -78,6 +78,7 @@ Nesta página é possível encontrar informações e materiais abordados nas aul
 - Aula 10/2019 - 07/maio- Lambada3
     - Parte 1 - [Classificadores K-NN - Ahirton Lopes](https://www.youtube.com/watch?v=K13GeZB1gUE&t=12s)
     - Parte 2 - [Classificadores K-Means - - Ahirton Lopes](https://www.youtube.com/watch?v=rM-WeCksjws)
+    - [Acesse aqui os Materiais](https://github.com/AhirtonLopes/KNN-K-Means)
 		
 - Aula 11/2019 - 21/mai- Lambada3
     - Parte 1 - [Classificadores Ensembles - Luiz Andrade](https://www.youtube.com/watch?v=lq9LGL695_g)
