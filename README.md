@@ -34,67 +34,77 @@ Nesta página é possível encontrar informações e materiais abordados nas aul
 
 ## Aulas de 2019
 
-### Aula 1/2019 - 15/jan - Lambada3
+### Aula 1/2019 - 15/jan - Lambda3
 
 - Parte 1 - [Definições, Estatistica Básica e Exploração de Dados - Ahirton Lopes](https://youtu.be/u_W7IxQl0jw?t=853)
 - Parte 2 - [Regressões - Diego Menescal](https://www.youtube.com/watch?v=qzASCODZrzI)
 - [Acesse aqui os Materiais](https://github.com/SchoolOfAISaoPaulo/aulas/tree/master/04_aula)
 
-### Aula 2/2019 - 29/jan- Lambada3
+### Aula 2/2019 - 29/jan- Lambda3
 
 - Parte 1 - [Estatística Básica - Luiz Andrade](https://www.youtube.com/watch?v=WZ4rs1Nbkrk&t=747s)
 - Parte 2 - [Regressões - Diego Menescal](https://www.youtube.com/watch?v=WZ4rs1Nbkrk&t=747s)
 - [Acesse aqui os Materiais](https://github.com/SchoolOfAISaoPaulo/aulas/tree/master/05_aula)
 		
-### Aula 3/2019 - 12/fev- Lambada3
+### Aula 3/2019 - 12/fev- Lambda3
 
 - Parte 1 - [Exploração de Dados com Python - Victor Venites ](https://www.youtube.com/watch?v=Ee9oBXfJppQ)
 - Parte 2 - [Hands on com Python - - Victor Venites](https://www.youtube.com/watch?v=K444RIyQCy0)
 - [Acesse aqui os Materiais](https://github.com/SchoolOfAISaoPaulo/aulas/tree/master/06_aula)
 		
-### Aula 4/2019 - 26/fev- Lambada3
+### Aula 4/2019 - 26/fev- Lambda3
 
 - Parte 1 - [Entendendo Regressão 3 Final - Diego Menescal](https://youtu.be/za7bF6llG1w?t=184)
 - Parte 2 - [Aprendizado de Máquina - Árvores de Decisão](https://youtu.be/za7bF6llG1w?t=4025)
 - [Acesse aqui os Materiais](https://github.com/SchoolOfAISaoPaulo/aulas/tree/master/07_aula)
 
-### Aula 5/2019 - 12/mar- Lambada3
+### Aula 5/2019 - 12/mar- Lambda3
 
 - Parte 1 - [Machine Tasting: Análise estatística e construção de um classificador de vinhos - Luiz Andrade](https://www.youtube.com/watch?v=1H4NtkBq_lk&t=1s)
 - Parte 2 - [Hands on Análise de Vinhos com Classificação - Luiz Andrade](https://www.youtube.com/watch?v=1H4NtkBq_lk&t=1s)
 - [Acesse aqui os Materiais](https://github.com/SchoolOfAISaoPaulo/aulas/tree/master/08_aula)
 		
-### Aula 6/2019 - 26/mar- Lambada3    
+### Aula 6/2019 - 26/mar- Lambda3    
 
 - Parte 1 - [Naive Bayes - Victor Venites](https://www.youtube.com/watch?v=qv7Y3r6Ka8M)
 - Parte 2 - [Visualização de Dados com Qlick Sense - Rodolfo Barbosa](https://www.youtube.com/watch?v=eHOgblKgLWQ&t=1359s)
 - [Acesse aqui os Materiais](https://github.com/SchoolOfAISaoPaulo/aulas/tree/master/09_aula)
 		
-### Aula 7/2019 - 09/abr- Lambada3
+### Aula 7/2019 - 09/abr- Lambda3
 
 - Parte 1 - [Visualização de Dados com Power BI - Orlando Gomes](https://www.youtube.com/watch?v=0TlF3yzFJA4&t=315s)
 - Parte 2 - [Hands on Visualização de Dados com Power BI](https://www.youtube.com/watch?v=0TlF3yzFJA4&t=315s)
 - Os Materiais dessa aula serão adicionados
 		
-### Aula 8/2019 - 23/abr- Lambada3
+### Aula 8/2019 - 23/abr- Lambda3
 
 - Parte 1 - [Visualização de Dados com Tableau - Nilton Ueda](https://www.youtube.com/watch?v=2gSygiEStMk)
 - Parte 2 - [Hands on Visualização de Dados com Tableau](https://www.youtube.com/watch?v=2gSygiEStMk)
 - O professor ainda não enviou os materiais
 		
-### Aula 9/2019 - 26/abr- Lambada3 - Aula Especial
+### Aula 9/2019 - 26/abr- Lambda3 - Aula Especial
 
 - [SVM e dia-a-dia de um Engenheiro do Google - Sammy El Ghazzal](https://www.youtube.com/watch?v=m_dtGhIc9EU&t=5s)
 - [Acesse aqui os Materiais](https://github.com/SchoolOfAISaoPaulo/aulas/tree/master/10_aula#aula-1)
 
-### Aula 10/2019 - 07/maio- Lambada3
+### Aula 10/2019 - 07/maio- Lambda3
 
 - Parte 1 - [Classificadores K-NN - Ahirton Lopes](https://www.youtube.com/watch?v=K13GeZB1gUE&t=12s)
 - Parte 2 - [Classificadores K-Means - - Ahirton Lopes](https://www.youtube.com/watch?v=rM-WeCksjws)
 - [Acesse aqui os Materiais](https://github.com/AhirtonLopes/KNN-K-Means)
 		
-### Aula 11/2019 - 21/mai- Lambada3
+### Aula 11/2019 - 21/mai- Lambda3
 
 - Parte 1 - [Classificadores Ensembles - Luiz Andrade](https://www.youtube.com/watch?v=lq9LGL695_g)
 - Parte 2 - [Séries Temporais - Case Bitcoin](https://www.youtube.com/watch?v=lbQ5UEOWi1o)
 - [Acesse aqui os Materiais](https://github.com/SchoolOfAISaoPaulo/aulas/tree/master/11_aula)
+
+
+### Aula EXTRA - 29/mai- Hangout
+
+- [Live - Séries Temporais - Bitcoin](https://www.youtube.com/watch?v=xur237Ox3N0)
+
+### Aula 12/2019 - 04/mai- Lambda3
+
+- Parte 1 - [Machine Learning com Azure](https://www.youtube.com/watch?v=d0vF0XdQeQU)
+- Parte 2 - [Machine Learning com Azure](https://www.youtube.com/watch?v=iQsnY_hK5hc)
