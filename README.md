@@ -55,7 +55,7 @@ Nesta página é possível encontrar informações e materiais abordados nas aul
 ### Aula 4/2019 - 26/fev- Lambda3
 
 - Parte 1 - [Entendendo Regressão 3 Final - Diego Menescal](https://youtu.be/za7bF6llG1w?t=184)
-- Parte 2 - [Aprendizado de Máquina - Árvores de Decisão](https://youtu.be/za7bF6llG1w?t=4025)
+- Parte 2 - [Aprendizado de Máquina - Árvores de Decisão - José Ahirton Lopes](https://youtu.be/za7bF6llG1w?t=4025)
 - [Acesse aqui os Materiais](https://github.com/SchoolOfAISaoPaulo/aulas/tree/master/07_aula)
 
 ### Aula 5/2019 - 12/mar- Lambda3
