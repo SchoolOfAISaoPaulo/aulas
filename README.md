@@ -118,7 +118,7 @@ Nesta página é possível encontrar informações e materiais abordados nas aul
 ### Aula 14/2019 - 02/julho- Lambda3
 
 - Parte 1 - [Redes Perceptron Multicamadas - Diego Duarte Menescal](https://www.youtube.com/watch?v=ypA_PXphk10)
- - Material:
-  - [Exploring MNIST And Deep Neural Networks](https://github.com/SchoolOfAISaoPaulo/aulas/blob/master/14_aula/ExploringMNIST.ipynb)
-  - [Apresentação Perceptron Múltiplas camadas - MLP](https://github.com/SchoolOfAISaoPaulo/aulas/raw/master/14_aula/School_Of_AI_MLP.pptx)
+	- Material:
+  		- [Exploring MNIST And Deep Neural Networks](https://github.com/SchoolOfAISaoPaulo/aulas/blob/master/14_aula/ExploringMNIST.ipynb)
+  		- [Apresentação Perceptron Múltiplas camadas - MLP](https://github.com/SchoolOfAISaoPaulo/aulas/raw/master/14_aula/School_Of_AI_MLP.pptx)
 - Parte 2 - [Radial Basis Function e Rede RBF](https://www.youtube.com/watch?v=dK_hj5Q-bSY)
