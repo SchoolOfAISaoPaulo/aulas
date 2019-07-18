@@ -125,5 +125,5 @@ Nesta página é possível encontrar informações e materiais abordados nas aul
 
 ### Aula 15/2019 - 16/julho- Lambda3
 
-- Parte 1 - [Aula 15/2019 - 16/07 - Parte 2 - Backpropagation e Adaline](https://www.youtube.com/watch?v=fcYh7wKTTP4)
+- Parte 1 - [Backpropagation e Adaline](https://www.youtube.com/watch?v=fcYh7wKTTP4)
 - Parte 2 - [Backpropagation e Adaline](https://www.youtube.com/watch?v=iwXpToOsewU)
