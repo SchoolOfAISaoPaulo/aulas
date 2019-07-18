@@ -122,3 +122,8 @@ Nesta página é possível encontrar informações e materiais abordados nas aul
   		- [Exploring MNIST And Deep Neural Networks](https://github.com/SchoolOfAISaoPaulo/aulas/blob/master/14_aula/ExploringMNIST.ipynb)
   		- [Apresentação Perceptron Múltiplas camadas - MLP](https://github.com/SchoolOfAISaoPaulo/aulas/raw/master/14_aula/School_Of_AI_MLP.pptx)
 - Parte 2 - [Radial Basis Function e Rede RBF](https://www.youtube.com/watch?v=dK_hj5Q-bSY)
+
+### Aula 15/2019 - 16/julho- Lambda3
+
+- Parte 1 - [Aula 15/2019 - 16/07 - Parte 2 - Backpropagation e Adaline](https://www.youtube.com/watch?v=fcYh7wKTTP4)
+- Parte 2 - [Backpropagation e Adaline](https://www.youtube.com/watch?v=iwXpToOsewU)
