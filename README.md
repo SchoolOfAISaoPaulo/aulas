@@ -127,3 +127,8 @@ Nesta página é possível encontrar informações e materiais abordados nas aul
 
 - Parte 1 - [Backpropagation e Adaline](https://www.youtube.com/watch?v=fcYh7wKTTP4)
 - Parte 2 - [Backpropagation e Adaline](https://www.youtube.com/watch?v=iwXpToOsewU)
+
+### Aula 16/2019 - 30/julho - Lambda3
+
+- Parte 1 - [DeepLearning - AutoEncoder - Prof. Victor Venites](https://www.youtube.com/watch?v=ep_j7pvFg9c)
+- Parte 2 - [DeepLearning - AutoEncoder - Prof. Victor Venites](https://www.youtube.com/watch?v=v-7vLPR2Azc)
