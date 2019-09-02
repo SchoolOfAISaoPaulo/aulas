@@ -132,3 +132,12 @@ Nesta página é possível encontrar informações e materiais abordados nas aul
 
 - Parte 1 - [DeepLearning - AutoEncoder - Prof. Victor Venites](https://www.youtube.com/watch?v=ep_j7pvFg9c)
 - Parte 2 - [DeepLearning - AutoEncoder - Prof. Victor Venites](https://www.youtube.com/watch?v=v-7vLPR2Azc)
+
+### Aula 17/2019 - 
+
+- Parte 1 - [Convolução - Prof. Victor Venites](https://www.youtube.com/watch?v=ogTOo6xuc04)
+- Parte 2 - [Rede Neural Convolucional - Python - Prof. Victor Venites](https://www.youtube.com/watch?v=TSYwzVWQVWk)
+
+### Aula 18/2019 - 
+
+- Parte 1 - [RNN  - Prof. Ahirton Lopes](https://www.youtube.com/watch?v=F3v7PDjgnw4)
