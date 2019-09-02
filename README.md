@@ -133,11 +133,23 @@ Nesta página é possível encontrar informações e materiais abordados nas aul
 - Parte 1 - [DeepLearning - AutoEncoder - Prof. Victor Venites](https://www.youtube.com/watch?v=ep_j7pvFg9c)
 - Parte 2 - [DeepLearning - AutoEncoder - Prof. Victor Venites](https://www.youtube.com/watch?v=v-7vLPR2Azc)
 
-### Aula 17/2019 - 
+### Aula 17/2019 - 13/Agosto - Lambda3
 
 - Parte 1 - [Convolução - Prof. Victor Venites](https://www.youtube.com/watch?v=ogTOo6xuc04)
 - Parte 2 - [Rede Neural Convolucional - Python - Prof. Victor Venites](https://www.youtube.com/watch?v=TSYwzVWQVWk)
 
-### Aula 18/2019 - 
+
+### Aula Especial para Iniciantes em Python - 17/Agosto - Lambda3
+
+- [Escolha de Inteligência Artificial](https://www.youtube.com/watch?v=jHoNL14BkiI)
+- [Bibliotecas em Python](https://www.youtube.com/watch?v=ggNGA2ekuWo)
+- [Instalando Anaconda parte 1](https://www.youtube.com/watch?v=ehik7WpiKzs)
+- [Instalando Anaconda parte 2](https://www.youtube.com/watch?v=BDXBk-wPuq4)
+- [Big Data, Ciência de Dados e Inteligência Artificial: Uma breve história](https://www.youtube.com/watch?v=ivXGieuSBlo)
+- [Exploração Estatística](https://www.youtube.com/watch?v=n8q20bsUKhY)
+- [Análise de Dados](https://www.youtube.com/watch?v=Aw2PODGF44c)
+- [Modelo Usando scikit-learn (sklearn)](https://www.youtube.com/watch?v=mcyVFmIZPYU)
+
+### Aula 18/2019 - 27/Agosto - Lambda3
 
 - Parte 1 - [RNN  - Prof. Ahirton Lopes](https://www.youtube.com/watch?v=F3v7PDjgnw4)
