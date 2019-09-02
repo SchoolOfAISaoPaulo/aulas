@@ -153,3 +153,4 @@ Nesta página é possível encontrar informações e materiais abordados nas aul
 ### Aula 18/2019 - 27/Agosto - Lambda3
 
 - Parte 1 - [RNN  - Prof. Ahirton Lopes](https://www.youtube.com/watch?v=F3v7PDjgnw4)
+	- [Material - Demos and slides from our 18th School of AI 2019 class](https://github.com/AhirtonLopes/School_of_AI_18)
