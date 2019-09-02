@@ -141,7 +141,7 @@ Nesta página é possível encontrar informações e materiais abordados nas aul
 
 ### Aula Especial para Iniciantes em Python - 17/Agosto - Lambda3
 
-- [Escolha de Inteligência Artificial](https://www.youtube.com/watch?v=jHoNL14BkiI)
+- [Escola de Inteligência Artificial](https://www.youtube.com/watch?v=jHoNL14BkiI)
 - [Bibliotecas em Python](https://www.youtube.com/watch?v=ggNGA2ekuWo)
 - [Instalando Anaconda parte 1](https://www.youtube.com/watch?v=ehik7WpiKzs)
 - [Instalando Anaconda parte 2](https://www.youtube.com/watch?v=BDXBk-wPuq4)
