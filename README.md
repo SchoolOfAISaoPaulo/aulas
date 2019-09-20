@@ -149,6 +149,7 @@ Nesta página é possível encontrar informações e materiais abordados nas aul
 - [Exploração Estatística](https://www.youtube.com/watch?v=n8q20bsUKhY)
 - [Análise de Dados](https://www.youtube.com/watch?v=Aw2PODGF44c)
 - [Modelo Usando scikit-learn (sklearn)](https://www.youtube.com/watch?v=mcyVFmIZPYU)
+	- [Material pydata](https://github.com/kaihami/pydata)
 
 ### Aula 18/2019 - 27/Agosto - Lambda3
 
