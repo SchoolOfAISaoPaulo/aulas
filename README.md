@@ -174,4 +174,5 @@ Nesta página é possível encontrar informações e materiais abordados nas aul
 
 - [Python - Comandos Básicos](https://github.com/SchoolOfAISaoPaulo/aulas/tree/master/20_aula_2019/Python%20-%20Comandos%20B%C3%A1sicos)
 - [Estatística - Análise Exploratória](https://github.com/SchoolOfAISaoPaulo/aulas/tree/master/20_aula_2019/Estat%C3%ADstica%20-%20An%C3%A1lise%20Explorat%C3%B3ria)
+- [Gráficos no Python] - https://drive.google.com/drive/folders/1_fz2W2R_DzsOkKUFIZnWDnj5qR4hGhIs
 - [Regressão Linear](https://github.com/SchoolOfAISaoPaulo/aulas/tree/master/20_aula_2019/Regress%C3%A3o%20Linear)
