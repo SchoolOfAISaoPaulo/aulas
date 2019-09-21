@@ -167,3 +167,11 @@ Nesta página é possível encontrar informações e materiais abordados nas aul
 
 - Parte 3 - [LSTM (Long Short-Term Memory) - Prof. Victor Venites](https://www.youtube.com/watch?v=WWoFhjPIRAM)
 	- [Material da Aula de LSTM](https://github.com/SchoolOfAISaoPaulo/aulas/tree/master/19_Aula_2019)
+
+### Aula 20/2019 - 21/Setembro - Lambda3
+
+#### Materiais
+
+- [Python - Comandos Básicos](https://github.com/SchoolOfAISaoPaulo/aulas/tree/master/20_aula_2019/Python%20-%20Comandos%20B%C3%A1sicos)
+- [Estatística - Análise Exploratória](https://github.com/SchoolOfAISaoPaulo/aulas/tree/master/20_aula_2019/Estat%C3%ADstica%20-%20An%C3%A1lise%20Explorat%C3%B3ria)
+- [Regressão Linear](https://github.com/SchoolOfAISaoPaulo/aulas/tree/master/20_aula_2019/Regress%C3%A3o%20Linear)
