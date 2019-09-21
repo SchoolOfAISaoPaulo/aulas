@@ -173,12 +173,9 @@ Nesta página é possível encontrar informações e materiais abordados nas aul
 - [Python Básico - Parte 1](https://www.youtube.com/watch?v=iKGkeficN7g)
 - [Python Básico - Parte 2](https://www.youtube.com/watch?v=W3NIj6A83DU)
 	- [Material Python - Comandos Básicos](https://github.com/SchoolOfAISaoPaulo/aulas/tree/master/20_aula_2019/Python%20-%20Comandos%20B%C3%A1sicos)
-
 - [Estatística Básica](https://www.youtube.com/watch?v=G6i75T1wZaA)
 	- [Material Estatística - Análise Exploratória](https://github.com/SchoolOfAISaoPaulo/aulas/tree/master/20_aula_2019/Estat%C3%ADstica%20-%20An%C3%A1lise%20Explorat%C3%B3ria)
-
 - [Gráficos Estatísticos com Python](https://www.youtube.com/watch?v=sBF49apTRCk)
-	- [Material Gráficos no Python](https://drive.google.com/drive/folders/1_fz2W2R_DzsOkKUFIZnWDnj5qR4hGhIs)
-
+	- [Material Gráficos no Python](https://github.com/SchoolOfAISaoPaulo/aulas/tree/master/20_aula_2019/Graficos%20no%20Python)
 - [Modelo de Regressão Linear](https://www.youtube.com/watch?v=9qTpx0PiFa0)
 	- [Material Regressão Linear](https://github.com/SchoolOfAISaoPaulo/aulas/tree/master/20_aula_2019/Regress%C3%A3o%20Linear)
