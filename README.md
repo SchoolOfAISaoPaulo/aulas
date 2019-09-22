@@ -168,7 +168,7 @@ Nesta página é possível encontrar informações e materiais abordados nas aul
 - Parte 3 - [LSTM (Long Short-Term Memory) - Prof. Victor Venites](https://www.youtube.com/watch?v=WWoFhjPIRAM)
 	- [Material da Aula de LSTM](https://github.com/SchoolOfAISaoPaulo/aulas/tree/master/19_Aula_2019)
 
-### Aula 20/2019 - 21/Setembro - Lambda3
+### Aula Especial - 21/Setembro - Lambda3
 
 - [Python Básico - Parte 1](https://www.youtube.com/watch?v=iKGkeficN7g)
 - [Python Básico - Parte 2](https://www.youtube.com/watch?v=W3NIj6A83DU)
