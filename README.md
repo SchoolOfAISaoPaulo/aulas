@@ -139,7 +139,7 @@ Nesta página é possível encontrar informações e materiais abordados nas aul
 - Parte 2 - [Rede Neural Convolucional - Python - Prof. Victor Venites](https://www.youtube.com/watch?v=TSYwzVWQVWk)
 
 
-### Aula Especial para Iniciantes em Python - 17/Agosto - Lambda3
+### 17/Agosto Aula Especial para Iniciantes em Python - Lambda3
 
 - [Escola de Inteligência Artificial](https://www.youtube.com/watch?v=jHoNL14BkiI)
 - [Bibliotecas em Python](https://www.youtube.com/watch?v=ggNGA2ekuWo)
@@ -168,7 +168,7 @@ Nesta página é possível encontrar informações e materiais abordados nas aul
 - Parte 3 - [LSTM (Long Short-Term Memory) - Prof. Victor Venites](https://www.youtube.com/watch?v=WWoFhjPIRAM)
 	- [Material da Aula de LSTM](https://github.com/SchoolOfAISaoPaulo/aulas/tree/master/19_Aula_2019)
 
-### Aula Especial Para iniciantes em Python - 21/Setembro - Lambda3
+### 21/Setembro Aula Especial Para iniciantes em Python - Lambda3
 
 - [Python Básico - Parte 1](https://www.youtube.com/watch?v=iKGkeficN7g)
 - [Python Básico - Parte 2](https://www.youtube.com/watch?v=W3NIj6A83DU)
