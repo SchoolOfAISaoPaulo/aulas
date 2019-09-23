@@ -100,7 +100,7 @@ Nesta página é possível encontrar informações e materiais abordados nas aul
 - [Acesse aqui os Materiais](https://github.com/SchoolOfAISaoPaulo/aulas/tree/master/11_aula)
 
 
-### Aula EXTRA - 29/mai- Hangout
+### [EXTRA] Aula Online 29/mai - Análise de Bitcoin em Séries Temporais
 
 - [Live - Séries Temporais - Bitcoin](https://www.youtube.com/watch?v=xur237Ox3N0)
 
@@ -163,7 +163,7 @@ Nesta página é possível encontrar informações e materiais abordados nas aul
 - Parte 1 - [LSTM (Long Short-Term Memory) - Prof. Victor Venites](https://www.youtube.com/watch?v=rCP5p3bDtTU)
 - Parte 2 - [LSTM (Long Short-Term Memory) - Prof. Victor Venites](https://www.youtube.com/watch?v=a61jd3wiwIM)
 
-### [EXTRA] Aula 19/2019 - 18/Setembro - Lambda3
+### [EXTRA] Aula Online 19/2019 - 18/Setembro
 
 - Parte 3 - [LSTM (Long Short-Term Memory) - Prof. Victor Venites](https://www.youtube.com/watch?v=WWoFhjPIRAM)
 	- [Material da Aula de LSTM](https://github.com/SchoolOfAISaoPaulo/aulas/tree/master/19_Aula_2019)
