@@ -163,7 +163,7 @@ Nesta página é possível encontrar informações e materiais abordados nas aul
 - Parte 1 - [LSTM (Long Short-Term Memory) - Prof. Victor Venites](https://www.youtube.com/watch?v=rCP5p3bDtTU)
 - Parte 2 - [LSTM (Long Short-Term Memory) - Prof. Victor Venites](https://www.youtube.com/watch?v=a61jd3wiwIM)
 
-### [EXTRA] Aula Online 19/2019 - 18/Setembro
+### [EXTRA] Aula Online 19/2019 - 18/Setembro - Continuação de LSTMs
 
 - Parte 3 - [LSTM (Long Short-Term Memory) - Prof. Victor Venites](https://www.youtube.com/watch?v=WWoFhjPIRAM)
 	- [Material da Aula de LSTM](https://github.com/SchoolOfAISaoPaulo/aulas/tree/master/19_Aula_2019)
