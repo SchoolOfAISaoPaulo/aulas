@@ -191,4 +191,5 @@ Nesta página é possível encontrar informações e materiais abordados nas aul
 	
 ### Aula 20/2019 - 24/Setembro - Lambda3
 
-- [Material](https://github.com/SchoolOfAISaoPaulo/aulas/tree/master/20_aula_2019) 
+- [Transfer Learning e GANs - Ahirton Lopes](https://www.youtube.com/watch?v=fDgEZezYP7Y)
+	- [Material](https://github.com/SchoolOfAISaoPaulo/aulas/tree/master/20_aula_2019) 
