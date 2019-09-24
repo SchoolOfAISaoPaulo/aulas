@@ -10,6 +10,38 @@ Nesta página é possível encontrar informações e materiais abordados nas aul
 
 # Índice das Aulas
 
+## [Aulas Especiais]()
+## [Aulas de 2018](https://github.com/SchoolOfAISaoPaulo/aulas#aulas-de-2018)
+## [Aulas de 2019](https://github.com/SchoolOfAISaoPaulo/aulas#aulas-de-2019)
+
+
+## Aulas Especiais
+
+### 17/Agosto Aula Especial para Iniciantes em Python - Lambda3
+
+- [Escola de Inteligência Artificial](https://www.youtube.com/watch?v=jHoNL14BkiI)
+- [Bibliotecas em Python](https://www.youtube.com/watch?v=ggNGA2ekuWo)
+- [Instalando Anaconda parte 1](https://www.youtube.com/watch?v=ehik7WpiKzs)
+- [Instalando Anaconda parte 2](https://www.youtube.com/watch?v=BDXBk-wPuq4)
+- [Big Data, Ciência de Dados e Inteligência Artificial: Uma breve história](https://www.youtube.com/watch?v=ivXGieuSBlo)
+- [Exploração Estatística](https://www.youtube.com/watch?v=n8q20bsUKhY)
+- [Análise de Dados](https://www.youtube.com/watch?v=Aw2PODGF44c)
+- [Modelo Usando scikit-learn (sklearn)](https://www.youtube.com/watch?v=mcyVFmIZPYU)
+	- [Material pydata](https://github.com/kaihami/pydata)
+	
+### 21/Setembro Aula Especial Para iniciantes em Python - Lambda3
+
+- [Python Básico - Parte 1](https://www.youtube.com/watch?v=iKGkeficN7g)
+- [Python Básico - Parte 2](https://www.youtube.com/watch?v=W3NIj6A83DU)
+	- [Material Python - Comandos Básicos](https://github.com/SchoolOfAISaoPaulo/aulas/tree/master/20_aula_2019/Python%20-%20Comandos%20B%C3%A1sicos)
+- [Estatística Básica](https://www.youtube.com/watch?v=G6i75T1wZaA)
+	- [Material Estatística - Análise Exploratória](https://github.com/SchoolOfAISaoPaulo/aulas/tree/master/20_aula_2019/Estat%C3%ADstica%20-%20An%C3%A1lise%20Explorat%C3%B3ria)
+- [Gráficos Estatísticos com Python](https://www.youtube.com/watch?v=sBF49apTRCk)
+	- [Material Gráficos no Python](https://github.com/SchoolOfAISaoPaulo/aulas/tree/master/20_aula_2019/Graficos%20no%20Python)
+- [Modelo de Regressão Linear](https://www.youtube.com/watch?v=9qTpx0PiFa0)
+	- [Material Regressão Linear](https://github.com/SchoolOfAISaoPaulo/aulas/tree/master/20_aula_2019/Regress%C3%A3o%20Linear)
+	
+
 ## Aulas de 2018
 
 ### Aula 1/2018 - 03/10 - We Work Estação Hack
@@ -31,6 +63,7 @@ Nesta página é possível encontrar informações e materiais abordados nas aul
 - Parte 2 - [Uma aplicação de visão computacional aplicada ao varejo - Rufo Paganini](https://www.youtube.com/watch?v=Ud-Gl_0XKOw)
 - Parte 3 - [Machine Translation para previsão de vendas - Luiz Andrade](https://youtu.be/lbNDKVJO9uY?t=1965)
 - [Contato dos Professores](https://github.com/SchoolOfAISaoPaulo/aulas/tree/master/03_aula)
+
 
 ## Aulas de 2019
 
@@ -139,18 +172,6 @@ Nesta página é possível encontrar informações e materiais abordados nas aul
 - Parte 2 - [Rede Neural Convolucional - Python - Prof. Victor Venites](https://www.youtube.com/watch?v=TSYwzVWQVWk)
 
 
-### 17/Agosto Aula Especial para Iniciantes em Python - Lambda3
-
-- [Escola de Inteligência Artificial](https://www.youtube.com/watch?v=jHoNL14BkiI)
-- [Bibliotecas em Python](https://www.youtube.com/watch?v=ggNGA2ekuWo)
-- [Instalando Anaconda parte 1](https://www.youtube.com/watch?v=ehik7WpiKzs)
-- [Instalando Anaconda parte 2](https://www.youtube.com/watch?v=BDXBk-wPuq4)
-- [Big Data, Ciência de Dados e Inteligência Artificial: Uma breve história](https://www.youtube.com/watch?v=ivXGieuSBlo)
-- [Exploração Estatística](https://www.youtube.com/watch?v=n8q20bsUKhY)
-- [Análise de Dados](https://www.youtube.com/watch?v=Aw2PODGF44c)
-- [Modelo Usando scikit-learn (sklearn)](https://www.youtube.com/watch?v=mcyVFmIZPYU)
-	- [Material pydata](https://github.com/kaihami/pydata)
-
 ### Aula 18/2019 - 27/Agosto - Lambda3
 
 - Parte 1 - [RNN  - Prof. Ahirton Lopes](https://www.youtube.com/watch?v=F3v7PDjgnw4)
@@ -167,15 +188,3 @@ Nesta página é possível encontrar informações e materiais abordados nas aul
 
 - Parte 3 - [LSTM (Long Short-Term Memory) - Prof. Victor Venites](https://www.youtube.com/watch?v=WWoFhjPIRAM)
 	- [Material da Aula de LSTM](https://github.com/SchoolOfAISaoPaulo/aulas/tree/master/19_Aula_2019)
-
-### 21/Setembro Aula Especial Para iniciantes em Python - Lambda3
-
-- [Python Básico - Parte 1](https://www.youtube.com/watch?v=iKGkeficN7g)
-- [Python Básico - Parte 2](https://www.youtube.com/watch?v=W3NIj6A83DU)
-	- [Material Python - Comandos Básicos](https://github.com/SchoolOfAISaoPaulo/aulas/tree/master/20_aula_2019/Python%20-%20Comandos%20B%C3%A1sicos)
-- [Estatística Básica](https://www.youtube.com/watch?v=G6i75T1wZaA)
-	- [Material Estatística - Análise Exploratória](https://github.com/SchoolOfAISaoPaulo/aulas/tree/master/20_aula_2019/Estat%C3%ADstica%20-%20An%C3%A1lise%20Explorat%C3%B3ria)
-- [Gráficos Estatísticos com Python](https://www.youtube.com/watch?v=sBF49apTRCk)
-	- [Material Gráficos no Python](https://github.com/SchoolOfAISaoPaulo/aulas/tree/master/20_aula_2019/Graficos%20no%20Python)
-- [Modelo de Regressão Linear](https://www.youtube.com/watch?v=9qTpx0PiFa0)
-	- [Material Regressão Linear](https://github.com/SchoolOfAISaoPaulo/aulas/tree/master/20_aula_2019/Regress%C3%A3o%20Linear)
