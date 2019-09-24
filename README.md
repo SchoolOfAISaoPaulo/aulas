@@ -10,9 +10,9 @@ Nesta página é possível encontrar informações e materiais abordados nas aul
 
 # Índice das Aulas
 
-[Aulas Especiais](https://github.com/SchoolOfAISaoPaulo/aulas/blob/master/README.md#aulas-especiais-1)
-[Aulas de 2018](https://github.com/SchoolOfAISaoPaulo/aulas/blob/master/README.md#aulas-de-2018-1)
-[Aulas de 2019](https://github.com/SchoolOfAISaoPaulo/aulas/blob/master/README.md#aulas-de-2019-1)
+- [Aulas Especiais](https://github.com/SchoolOfAISaoPaulo/aulas/blob/master/README.md#aulas-especiais)
+- [Aulas de 2018](https://github.com/SchoolOfAISaoPaulo/aulas/blob/master/README.md#aulas-de-2018)
+- [Aulas de 2019](https://github.com/SchoolOfAISaoPaulo/aulas/blob/master/README.md#aulas-de-2019)
 
 
 ## Aulas Especiais
