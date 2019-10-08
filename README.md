@@ -194,3 +194,8 @@ Nesta página é possível encontrar informações e materiais abordados nas aul
 - [Transfer Learning e GANs - Ahirton Lopes](https://www.youtube.com/watch?v=fDgEZezYP7Y)
 - [Generative Adversarial Networks (GANs) - Ahirton Lopes](https://www.youtube.com/watch?v=MzcYt9TgAro)
 	- [Material](https://github.com/SchoolOfAISaoPaulo/aulas/tree/master/20_aula_2019) 
+	
+### [EXTRA] Aniversário de 1 ano do School Of AI SP - 08/Outubro - Lambda 3
+
+- [Apresentação do  Gustavo Gattass Ayub - Sr. Product Manager – Data & AI Microsoft Brasil](https://github.com/SchoolOfAISaoPaulo/aulas/blob/master/03_aula_especial_2019/palestra.pptx)
+
