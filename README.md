@@ -198,6 +198,6 @@ Nesta página é possível encontrar informações e materiais abordados nas aul
 ### [EXTRA] Aniversário de 1 ano do School Of AI SP - 08/Outubro - Lambda 3
 
 - [Live da Apresentação](https://www.youtube.com/watch?v=OmxwhXyCdhQ)
-- [Apresentação do  Gustavo Gattass Ayub - Sr. Product Manager – Data & AI Microsoft Brasil](https://github.com/SchoolOfAISaoPaulo/aulas/blob/master/03_aula_especial_2019/palestra.pptx)
+- [Apresentação do  Gustavo Gattass Ayub - Sr. Product Manager – Data & AI Microsoft Brasil](https://github.com/SchoolOfAISaoPaulo/aulas/blob/master/03_aula_especial_2019/SchoolOfAI_20191008_Lambda3.pptx)
 - [Apresentação de 1 ano da School Of AI SP](https://github.com/SchoolOfAISaoPaulo/aulas/blob/master/03_aula_especial_2019/Apresentacao_School_1_ano.pdf)
 
