@@ -195,6 +195,15 @@ Nesta página é possível encontrar informações e materiais abordados nas aul
 - [Generative Adversarial Networks (GANs) - Ahirton Lopes](https://www.youtube.com/watch?v=MzcYt9TgAro)
 	- [Material](https://github.com/SchoolOfAISaoPaulo/aulas/tree/master/20_aula_2019) 
 	
+### Aula 21/2019 - 22/Outubro - Lambda3
+
+- Parte 1 - [Reinforcement Learning - Prof.  Victor Venites - School AI SP](https://www.youtube.com/watch?v=nY22xKsa_xU)
+- Parte 2 - [Reinforcement Learning - Prof. Victor Venites - School AI SP](https://www.youtube.com/watch?v=vNl6SgWLnOQ) 
+
+### Aula 22/2019 - 05/2019 - Lambda3
+
+- [Material](https://github.com/AhirtonLopes/School_of_AI_22)
+	
 ### [EXTRA] Aniversário de 1 ano do School Of AI SP - 08/Outubro - Lambda 3
 
 - [Live da Apresentação](https://www.youtube.com/watch?v=OmxwhXyCdhQ)
