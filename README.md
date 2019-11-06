@@ -40,6 +40,12 @@ Nesta página é possível encontrar informações e materiais abordados nas aul
 	- [Material Gráficos no Python](https://github.com/SchoolOfAISaoPaulo/aulas/tree/master/02_aula_especial_2019/Graficos%20no%20Python)
 - [Modelo de Regressão Linear](https://www.youtube.com/watch?v=9qTpx0PiFa0)
 	- [Material Regressão Linear](https://github.com/SchoolOfAISaoPaulo/aulas/tree/master/02_aula_especial_2019/Regress%C3%A3o%20Linear)
+
+### 08/Outubro - [EXTRA] Aniversário de 1 ano do School Of AI SP - Lambda 3
+
+- [Live da Apresentação](https://www.youtube.com/watch?v=OmxwhXyCdhQ)
+- [Apresentação do  Gustavo Gattass Ayub - Sr. Product Manager – Data & AI Microsoft Brasil](https://github.com/SchoolOfAISaoPaulo/aulas/raw/master/03_aula_especial_2019/SchoolOfAI_20191008_Lambda3.pptx)
+- [Apresentação de 1 ano da School Of AI SP](https://github.com/SchoolOfAISaoPaulo/aulas/blob/master/03_aula_especial_2019/Apresentacao_School_1_ano.pdf)
 	
 
 ## Aulas de 2018
@@ -197,16 +203,11 @@ Nesta página é possível encontrar informações e materiais abordados nas aul
 	
 ### Aula 21/2019 - 22/Outubro - Lambda3
 
-- Parte 1 - [Reinforcement Learning - Prof.  Victor Venites - School AI SP](https://www.youtube.com/watch?v=nY22xKsa_xU)
-- Parte 2 - [Reinforcement Learning - Prof. Victor Venites - School AI SP](https://www.youtube.com/watch?v=vNl6SgWLnOQ) 
+- Parte 1 - [Reinforcement Learning - Prof.  Victor Venites](https://www.youtube.com/watch?v=nY22xKsa_xU)
+- Parte 2 - [Reinforcement Learning - Prof. Victor Venites](https://www.youtube.com/watch?v=vNl6SgWLnOQ) 
 
 ### Aula 22/2019 - 05/2019 - Lambda3
 
+- Parte 1 - [Tópicos em Visão Computacional - Prof. Ahirton Lopes](https://www.youtube.com/watch?v=enecWHfR8RU)
+- Parte 2 - [Tópicos em Visão Computacional - Prof. Ahirton Lopes](https://www.youtube.com/watch?v=uAl55Rqt-hw)
 - [Material](https://github.com/AhirtonLopes/School_of_AI_22)
-	
-### [EXTRA] Aniversário de 1 ano do School Of AI SP - 08/Outubro - Lambda 3
-
-- [Live da Apresentação](https://www.youtube.com/watch?v=OmxwhXyCdhQ)
-- [Apresentação do  Gustavo Gattass Ayub - Sr. Product Manager – Data & AI Microsoft Brasil](https://github.com/SchoolOfAISaoPaulo/aulas/raw/master/03_aula_especial_2019/SchoolOfAI_20191008_Lambda3.pptx)
-- [Apresentação de 1 ano da School Of AI SP](https://github.com/SchoolOfAISaoPaulo/aulas/blob/master/03_aula_especial_2019/Apresentacao_School_1_ano.pdf)
-
